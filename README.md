@@ -4,7 +4,7 @@ VCIL
 
 ====
 
-** LICENSE
+LICENSE
 
 Centre National de la Recherche Scientifique (CNRS, France; www.cnrs.fr)
 Université d’Aix Marseille (AMU, France; www.univ-amu.fr)
