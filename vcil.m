@@ -7,7 +7,7 @@ clc
 % Universit? d?Aix Marseille (AMU, France; www.univ-amu.fr)
 % Author: Stephane Dufau, Laboratoire de psychologie cognitive, 
 % stephane.dufau@univ-amu.fr
-% Creation: Novembre 2014
+% Creation: November 2014
 % 
 % This software is governed by the CeCILL-B license under French law and
 % abiding by the rules of distribution of free software. You can  use, 
